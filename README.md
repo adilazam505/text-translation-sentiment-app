@@ -17,10 +17,10 @@ streamlit run app.py
 
 ## ✨ Features
 
-English → Urdu Translation (Helsinki-NLP/opus-mt-en-ur)
-Sentiment Analysis (DistilBERT, SST-2)
-Lightweight (no heavy models like mBART)
-Simple Streamlit UI
+- English → Urdu Translation (Helsinki-NLP/opus-mt-en-ur)
+- Sentiment Analysis (DistilBERT, SST-2)
+- Lightweight (no heavy models like mBART)
+- Simple Streamlit UI
 
 ## 🛠️ Tech Stack
 
@@ -28,3 +28,4 @@ Python
 Hugging Face Transformers
 
 Streamlit
+
