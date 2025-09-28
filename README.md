@@ -7,10 +7,7 @@ This is a **Streamlit app** that:
 ---
 
 ## 🚀 How to Run Locally
-
-# Clone the repository
-git clone https://github.com/your-username/english-urdu-translator.git
-cd english-urdu-translator
+https://github.com/your-username/english-urdu-translator.git
 
 # Install dependencies
 pip install -r requirements.txt
@@ -29,4 +26,5 @@ Simple Streamlit UI
 
 Python
 Hugging Face Transformers
+
 Streamlit
